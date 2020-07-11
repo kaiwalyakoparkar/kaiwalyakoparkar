@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 - 😄 Pronouns: He
-- ⚡ Fun fact: "I am not special but a kind of iterative loop continuously going inside my mind..."
+- ⚡ Fun fact: "I am not special but a kind of iterative loop is continuously going inside my mind which pushes me forward everyday and raises my difficulty bar by 1..."
 
