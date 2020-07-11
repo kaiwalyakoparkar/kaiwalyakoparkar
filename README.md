@@ -11,8 +11,10 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Front End, Machine Learning, Database, OOPs
 - 📫 How to reach me: Website : https://kaiwalyakoparkar.github.io
+                              https://www.linkedin.com/in/kaiwalya-koparkar-0a0894191
 
-                                LinkedIn :https://www.linkedin.com/in/kaiwalya-koparkar-0a0894191
+
+
 
 - 😄 Pronouns: He
 - ⚡ Fun fact: "I am not special but a kind of iterative loop continuously going inside my mind..."
