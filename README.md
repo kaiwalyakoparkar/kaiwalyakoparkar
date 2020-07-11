@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I am Kaiwalya. Wwlcome to my profile
 
 <!--
 **kaiwalyakoparkar/kaiwalyakoparkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on College Management System Project.
+- 🌱 I’m currently learning new trends and technology.
+- 👯 I’m looking to collaborate on latest technology which can change the world
+
+- 💬 Ask me about Front End, Machine Learning, Database, OOPs
+- 📫 How to reach me: Website : https://kaiwalyakoparkar.github.io
+                      LinkedIn :https://www.linkedin.com/in/kaiwalya-koparkar-0a0894191
+- 😄 Pronouns: He
+- ⚡ Fun fact: "I am not special but a kind of iterative loop continuously going inside my mind..."
 -->
