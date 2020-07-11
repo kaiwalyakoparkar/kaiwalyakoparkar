@@ -1,7 +1,7 @@
-### Hi there 👋, I am Kaiwalya. Wwlcome to my profile
+### Hi there 👋, I am Kaiwalya. Welcome to my profile
 
-<!--
-**kaiwalyakoparkar/kaiwalyakoparkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
                       LinkedIn :https://www.linkedin.com/in/kaiwalya-koparkar-0a0894191
 - 😄 Pronouns: He
 - ⚡ Fun fact: "I am not special but a kind of iterative loop continuously going inside my mind..."
--->
+
