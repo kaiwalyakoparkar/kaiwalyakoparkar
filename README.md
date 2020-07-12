@@ -14,5 +14,5 @@ Here are some ideas to get you started:
    LinkedIn: https://www.linkedin.com/in/kaiwalya-koparkar-0a0894191
 
 - 😄 Pronouns: He
-- ⚡ Fun fact: "I am not special but a kind of iterative loop is continuously going inside my mind which pushes me forward everyday and raises my difficulty bar by 1..."
+- ⚡ Fun fact: "I am not special but a kind of iterative loop is continuously going on inside my mind which pushes me forward everyday and raises my difficulty bar by 1..."
 
