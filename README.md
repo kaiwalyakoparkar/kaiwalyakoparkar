@@ -3,7 +3,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on College Management System Project.
 - 🌱 I’m currently learning new trends and technology.
