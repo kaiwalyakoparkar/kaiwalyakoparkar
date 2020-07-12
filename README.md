@@ -20,3 +20,4 @@
 - 😄 Pronouns: He/Mr
 - ⚡ Fun fact: "I am not special but a kind of iterative loop is continuously going on inside my mind which pushes me forward everyday and raises my difficulty bar by 1..."
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=kaiwalyakoparkar.kaiwalyakoparkar)
