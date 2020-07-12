@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Kaiwalya. Welcome to my profile
 
-![special](src/pack.png)
+<p align="center">
+  <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+</p>
 
 
 
