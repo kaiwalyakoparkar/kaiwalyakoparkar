@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning new trends and technology.
 - 👯 I’m looking to collaborate on latest technology which can change the world
 - 💬 Ask me about Front End, Machine Learning, Database, OOPs
+- ⚡ Download my Cv : https://kaiwalyakoparkar.github.io/docs/CV.pdf
 
 - 😄 Pronouns: He/Mr
 - ⚡ Fun fact: "I am not special but a kind of iterative loop is continuously going on inside my mind which pushes me forward everyday and raises my difficulty bar by 1..."
