@@ -1,5 +1,8 @@
 ### Hi there 👋, I am Kaiwalya. Welcome to my profile
 
+I am a Full Stack Developer with experience building open source projects. I specialize in Python and have professional experience working with Jupyter Notebook. I also have experience working with HTML, CSS, Java, Take a look at my work or get in touch!
+https://kaiwalyakoparkra.github.io/ 
+
 <p align="center">
   <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
 </p>
