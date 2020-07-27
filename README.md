@@ -22,3 +22,4 @@ https://kaiwalyakoparkra.github.io/
 - ⚡ Fun fact: "I am not special but a kind of iterative loop is continuously going on inside my mind which pushes me forward everyday and raises my difficulty bar by 1..."
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
