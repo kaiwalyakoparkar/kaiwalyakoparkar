@@ -12,7 +12,7 @@ https://kaiwalyakoparkra.github.io/
 [![blog badge](https://img.shields.io/badge/personalwebsite-kaiwalyakoparkar.github.io-1f425f?style=flat-square)](https://kaiwalyakoparkar.github.io/)
 [![blog badge](https://img.shields.io/badge/github-kaiwalyakoparkar-1f425f?style=flat-square)](https://gihub.com/kaiwalyakoparkar)
 
-- 🔭 I’m currently working on College Management System Project.
+- 🔭 I’m currently working on Dijkstra’s Algorithm.
 - 🌱 I’m currently learning new trends and technology.
 - 👯 I’m looking to collaborate on latest technology which can change the world
 - 💬 Ask me about Front End, Machine Learning, Database, OOPs
