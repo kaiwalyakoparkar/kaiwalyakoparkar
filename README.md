@@ -1,6 +1,14 @@
 ### Hi there 👋, I am Kaiwalya. Welcome to my profile
 
-I am a Full Stack Developer with experience building open source projects. I specialize in Python and have professional experience working with Jupyter Notebook. I also have experience working with HTML, CSS, Java, Take a look at my work or get in touch!
+I am a Full Stack Developer with experience building open source projects. One of my biggest strengths is the development and delivering big ideas that amaze people's minds. I am fond of solving complex problems encountered in daily life. I love to convert my dreams into efficient code.
+
+I am a Compititive Programmer at HackerRank, CodeForces, CodeChef. My expertise are :
+
+IT Constructs: Data Strctures and Algorithms, OOP, OS, DBMS, Computer Networking, System Architecture, Compilers, Dynamic Programming.
+Development Tools: Microsoft Visual Studio,Sublime, Pycharm, IntelliJ, GitHub, Git, Notion, Android Studio, Linux, Windows.
+Frameworks: Bootstrap.
+DB Tools: SQL, Firebase.
+
 https://kaiwalyakoparkra.github.io/ 
 
 <p align="center">
