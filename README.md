@@ -16,7 +16,7 @@ https://kaiwalyakoparkra.github.io/
 </p>
 
 
-[![linkedin badge](https://img.shields.io/badge/linkedin-kaiwalyakoparkar-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaiwalya-koparkar-0a0894191/)
+[![linkedin badge](https://img.shields.io/badge/linkedin-kaiwalyakoparkar-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaiwalyakoparkar//)
 [![blog badge](https://img.shields.io/badge/personalwebsite-kaiwalyakoparkar.github.io-1f425f?style=flat-square)](https://kaiwalyakoparkar.github.io/)
 [![blog badge](https://img.shields.io/badge/github-kaiwalyakoparkar-1f425f?style=flat-square)](https://gihub.com/kaiwalyakoparkar)
 
