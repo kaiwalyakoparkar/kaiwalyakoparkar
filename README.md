@@ -22,7 +22,7 @@ https://kaiwalyakoparkar.github.io/
 
 [![linkedin badge](https://img.shields.io/badge/linkedin-kaiwalyakoparkar-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaiwalyakoparkar//)
 [![blog badge](https://img.shields.io/badge/personalwebsite-kaiwalyakoparkar.github.io-1f425f?style=flat-square)](https://kaiwalyakoparkar.github.io/)
-[![blog badge](https://img.shields.io/badge/github-kaiwalyakoparkar-1f425f?style=flat-square)](https://github.com/kaiwalyakoparkar)
+[![twitter badge](https://img.shields.io/badge/twitter-kaiwalya_13-1f425f?style=flat-square&logo=twitter)](https://twitter.com/kaiwalya_13)
 
 - 🔭 I’m currently working on my Mini Projects for college courses which will be made public sooner
 - 🌱 I’m currently learning new trends and technology.
