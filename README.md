@@ -2,7 +2,7 @@
 
 I am a Full Stack Developer with experience building open source projects. One of my biggest strengths is the development and delivering big ideas that amaze people's minds. I am fond of solving complex problems encountered in daily life. I love to convert my dreams into efficient code.
 
-I am a Compititive Programmer at HackerRank, CodeForces, CodeChef. My expertise are :
+I am a Compititive Programmer at ![HackerRank](https://img.shields.io/badge/-HackerRank-green), ![CodeForces](https://img.shields.io/badge/-CodeForces-pink), ![CodeChef](https://img.shields.io/badge/-CodeChef-A33720). My expertise are :
 
 IT Constructs: Data Strctures and Algorithms, OOP, OS, DBMS, Computer Networking, System Architecture, Compilers, Dynamic Programming.
 Development Tools: Microsoft Visual Studio,Sublime, Pycharm, IntelliJ, GitHub, Git, Notion, Android Studio, Linux, Windows.
