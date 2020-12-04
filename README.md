@@ -9,7 +9,7 @@ Development Tools: Microsoft Visual Studio,Sublime, Pycharm, IntelliJ, GitHub, G
 Frameworks: Bootstrap.
 DB Tools: SQL, Firebase.
 
-https://kaiwalyakoparkra.github.io/ 
+https://kaiwalyakoparkar.github.io/ 
 
 <p align="center">
   <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
@@ -20,12 +20,11 @@ https://kaiwalyakoparkra.github.io/
 [![blog badge](https://img.shields.io/badge/personalwebsite-kaiwalyakoparkar.github.io-1f425f?style=flat-square)](https://kaiwalyakoparkar.github.io/)
 [![blog badge](https://img.shields.io/badge/github-kaiwalyakoparkar-1f425f?style=flat-square)](https://github.com/kaiwalyakoparkar)
 
-- 🔭 I’m currently working on my Mini Projects for college courses which will be made public    sooner
+- 🔭 I’m currently working on my Mini Projects for college courses which will be made public sooner
 - 🌱 I’m currently learning new trends and technology.
-- 👯 I’m looking to collaborate on latest technology which can change the world
-- 💬 Ask me about Front End, Machine Learning, Database, OOPs
+- 👯 I’m looking to collaborate on latest technology which challenges the problems in this world
+- 💬 Ask me about Software Engineering and Cyber Security Concepts
 - ⚡ Download my Cv : https://kaiwalyakoparkar.github.io/docs/CV.pdf
-
 - 😄 Pronouns: He/Mr
 - ⚡ Fun fact: "I am not special but a kind of iterative loop is continuously going on inside my mind which pushes me forward everyday and raises my difficulty bar by 1..."
 
