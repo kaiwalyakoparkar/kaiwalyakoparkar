@@ -25,6 +25,7 @@ https://kaiwalyakoparkar.github.io/
 [![twitter badge](https://img.shields.io/badge/Twitter-kaiwalya_13-1f425f?style=flat-square&logo=twitter)](https://twitter.com/kaiwalya_13)
 
 - 🔭 I’m currently working on my Mini Projects for college courses which will be made public sooner
+- :goal_net: My goal of 2021 is to learn the Full Stack Development and Hybrid app development.
 - 🌱 I’m currently learning new trends and technology.
 - 👯 I’m looking to collaborate on latest technology which challenges the problems in this world
 - 💬 Ask me about Software Engineering and Cyber Security Concepts
