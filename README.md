@@ -9,7 +9,7 @@ I am a Compititive Programmer at ![HackerRank](https://img.shields.io/badge/-Hac
 
 <b>Development Tools:</b> Microsoft Visual Studio,Sublime, Pycharm, IntelliJ, GitHub, Git, Notion, Android Studio, Linux, Windows.
 
-<b>Frameworks:</b> Bootstrap.
+<b>Frameworks:</b> Bootstrap, React Js.
 
 <b>DB Tools:</b> SQL, Firebase.
 
