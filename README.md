@@ -11,7 +11,7 @@ I am a Compititive Programmer at ![HackerRank](https://img.shields.io/badge/-Hac
 
 <b>Frameworks:</b> Bootstrap, React Js.
 
-<b>DB Tools:</b> SQL, Firebase.
+<b>DB Tools:</b> SQL, Firebase .
 
 https://kaiwalyakoparkar.github.io/ 
 
