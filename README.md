@@ -23,7 +23,7 @@ https://kaiwalyakoparkar.github.io/
 [![linkedin badge](https://img.shields.io/badge/Linkedin-kaiwalyakoparkar-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kaiwalyakoparkar//)
 [![website badge](https://img.shields.io/badge/Website-kaiwalyakoparkar.github.io-1f425f?style=flat-square&logo=wikipedia)](https://kaiwalyakoparkar.github.io/)
 [![twitter badge](https://img.shields.io/badge/Twitter-kaiwalya_13-1f425f?style=flat-square&logo=twitter)](https://twitter.com/kaiwalya_13)
-[![medium badge](https://img.shields.io/badge/Medium-kaiwalya_13-1f425f?style=flat-square&logo=medium)](https://kaiwalyakoparkar.medium.com)
+[![medium badge](https://img.shields.io/badge/Medium-kaiwalyakoparkar-1f425f?style=flat-square&logo=medium)](https://kaiwalyakoparkar.medium.com)
 
 - 🔭 I’m currently working on my Competetive programming and Full stack developement skills
 - :goal_net: My goal of 2021 is to learn the Full Stack Development and Hybrid app development.
