@@ -1,19 +1,5 @@
 ## Hi there 👋, I am Kaiwalya. Welcome to my profile !!!
 
-I am a Full Stack Developer with experience building open source projects. One of my biggest strengths is the development and delivering big ideas that amaze people's minds. I am fond of solving complex problems encountered in daily life. I love to convert my dreams into efficient code.
-
-I am a Compititive Programmer at ![HackerRank](https://img.shields.io/badge/-HackerRank-green) ![CodeForces](https://img.shields.io/badge/-CodeForces-pink) ![CodeChef](https://img.shields.io/badge/-CodeChef-A33720)
-
-#### My expertise are :
-<b>IT Constructs:</b>Data Strctures and Algorithms, OOP, OS, DBMS, Computer Networking, System Architecture, Compilers, Dynamic Programming.
-
-<b>Development Tools:</b> Microsoft Visual Studio,Sublime, Pycharm, IntelliJ, GitHub, Git, Notion, Android Studio, Linux, Windows.
-
-<b>Frameworks:</b> Bootstrap, React Js.
-
-<b>DB Tools:</b> SQL, Firebase .
-
-https://kaiwalyakoparkar.github.io/ 
 
 <p align="center">
   <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
