@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## I am Kaiwalya, Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am Kaiwalya Koparkar, people call me Ani, currently pursuing my diploma majoring in computer science from [M. S. Gosavi Polytechnic Institute](https://gespoly.org/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -42,7 +42,7 @@ I am Kaiwalya Koparkar, people call me Ani, currently pursuing my diploma majori
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwalyakoparkar&hide=TeX&layout=compact)
 
-[Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaiwalyakopakar.kaiwalyakoparkar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaiwalyakopakar.kaiwalyakoparkar)
 <!--## Hi there 👋, I am Kaiwalya. Welcome to my profile !!!
 <p align="center">
   <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
