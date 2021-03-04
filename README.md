@@ -4,7 +4,7 @@ I am Kaiwalya Koparkar, people call me Ani, currently pursuing my diploma majori
 
 [![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
 [![Instagram Badge](https://img.shields.io/badge/-kaiwalya.koparkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://instagram.com/kaiwalya.koparkar)
-[![Medium Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://kaiwalyakopakar.medium.com/)](https://kaiwalyakopakar.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://kaiwalyakopakar.medium.com/)](https://kaiwalyakoparkar.medium.com/)
 [![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Kaiwalya's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/)
 <!--[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)-->
