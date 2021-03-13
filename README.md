@@ -46,7 +46,7 @@ I am Kaiwalya Koparkar, currently pursuing my diploma majoring in computer scien
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&count_private=true&show_icons=true&include_all_commits=true)
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwalyakoparkar&hide=TeX&layout=compact)
 
