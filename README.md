@@ -9,9 +9,8 @@ I am Kaiwalya Koparkar, currently pursuing my diploma majoring in computer scien
 [![Website Badge](https://img.shields.io/badge/-Kaiwalya's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/)
 <!--[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)-->
 
-<div align = "center">
-<img alt="GIF" justify-content="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
-</div>
+[![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaiwalyakoparkar&theme=xcode)](https://git.io/kaiwalyakoparkar)
+
 
 ## ⚡ Technologies
 
@@ -45,9 +44,14 @@ I am Kaiwalya Koparkar, currently pursuing my diploma majoring in computer scien
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&count_private=true&show_icons=true&include_all_commits=true)
+
+
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwalyakoparkar&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaiwalyakopakar.kaiwalyakoparkar)
+
 <!--## Hi there 👋, I am Kaiwalya. Welcome to my profile !!!
 <p align="center">
   <img align="center" alt="Meme Studio" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
