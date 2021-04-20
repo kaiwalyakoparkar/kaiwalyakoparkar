@@ -39,14 +39,15 @@ I am Kaiwalya Koparkar, currently pursuing my diploma majoring in computer scien
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&count_private=true&show_icons=true&include_all_commits=true)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaiwalyakoparkar&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiwalyakoparkar&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kaiwalyakopakar.kaiwalyakoparkar)
 
 <!--## Hi there 👋, I am Kaiwalya. Welcome to my profile !!!
 <p align="center">
