@@ -53,6 +53,13 @@ I am Kaiwalya Koparkar, currently pursuing my diploma majoring in computer scien
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 
+## 💰 Support
+<p>
+<a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Kaiwalya on buymecoffee' /></a>
+</p>
+
+## 📈 Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaiwalyakoparkar&show_icons=true&theme=tokyonight" />
