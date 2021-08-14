@@ -1,13 +1,13 @@
-# Hi, I am Kaiwalya! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Kaiwalya! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Kaiwalya Koparkar, currently pursuing my diploma majoring in computer science from [M. S. Gosavi Polytechnic Institute](https://gespoly.org/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Kaiwalya Koparkar, currently pursuing my Diploma majoring in computer science from [M. S. Gosavi Polytechnic Institute](https://gespoly.org/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
 [![Instagram Badge](https://img.shields.io/badge/-kaiwalya.koparkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://instagram.com/kaiwalya.koparkar)
 [![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Kaiwalya's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/)
-<!--[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)-->
+[![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)](https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)
 
 [![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaiwalyakoparkar&theme=xcode)](https://git.io/kaiwalyakoparkar)
 
