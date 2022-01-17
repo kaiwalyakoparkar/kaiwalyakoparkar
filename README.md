@@ -9,8 +9,7 @@ I am Kaiwalya Koparkar, currently pursuing my Diploma majoring in computer scien
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/)
 [![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)](https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)
 
-[![Kaiwalya's github activity graph](https://activity-graph.herokuapp.com/graph?username=kaiwalyakoparkar&theme=xcode)](https://git.io/kaiwalyakoparkar)
-
+<img src="https://activity-graph.herokuapp.com/graph?username=kaiwalyakoparkar&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ## ⚡ Technologies
 
