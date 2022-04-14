@@ -1,6 +1,6 @@
 ## Hi, I am Kaiwalya! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Kaiwalya Koparkar, Currently I am working as Community Manager Intern at Sawo-Labs Community and Part time Program manager at Community Classroom. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Kaiwalya Koparkar, Currently I am working as Community Manager Intern at Sawo-Labs Community, Program manager at Community Classroom, Project Maintainer at EddieHubCommunity, and GCE, mentor at MLH. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
 [![Instagram Badge](https://img.shields.io/badge/-kaiwalya.koparkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://instagram.com/kaiwalya.koparkar)
