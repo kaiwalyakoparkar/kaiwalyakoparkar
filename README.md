@@ -1,4 +1,4 @@
-## Hi, I am Kaiwalya! Great to see you here! 👋
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&vCenter=true&width=800&color=A607FC&lines=Hey+there,+I+am+Kaiwalya!%F0%9F%91%8B;Great+to+see+you+here!+%F0%9F%99%8F;)
 
 I am Kaiwalya Koparkar, Currently I am working as Program manager at WeMakeDevs, Project Maintainer at EddieHubCommunity, GCE 🚩, and MLH Coach. I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
