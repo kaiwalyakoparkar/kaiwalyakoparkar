@@ -3,10 +3,10 @@
 I am Kaiwalya Koparkar, CNCF Ambassador, PM at WeMakeDevs, Project Maintainer at EddieHubCommunity, GCE 🚩, and MLH Coach. I am a Full Stack Developer with experience building open-source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.linkedin.com/in/kaiwalyakoparkar/)
-[![Instagram Badge](https://img.shields.io/badge/-kaiwalya.koparkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kaiwalya.koparkar/)](https://instagram.com/kaiwalya.koparkar)
+[![Instagram Badge](https://img.shields.io/badge/-kaiwalya.koparkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/notkaiwalya)](https://instagram.com/notkaiwalya)
 [![Hashnode Badge](https://img.shields.io/badge/-@kaiwalyakoparkar-1F51FF?style=flat-square&labelColor=1F51FF&logo=Hashnode&link=https://kaiwalyakoparkar.hashnode.dev/)](https://kaiwalyakoparkar.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaiwalyakoparkar@gmail.com)](mailto:kaiwalyakoparkar@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://kaiwalyakoparkar.github.io/)](https://kaiwalyakoparkar.github.io/)
+[![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://bio.link/kaiwalya)](https://bio.link/kaiwalya)
 [![Youtube Badge](https://img.shields.io/badge/-Kaiwalya%20Koparkar-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)](https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)
 
 [![Kaiwalya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaiwalyakoparkar&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
